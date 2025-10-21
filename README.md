@@ -47,8 +47,3 @@ Using advanced SQL queries, I analyzed **sales trends, customer segments, and pr
 Delivered a set of **ready-to-query SQL views** that serve as data marts for dashboards in tools like **Power BI** or **Tableau**, improving data visibility and decision-making efficiency across sales and marketing teams.
 
 ---
-
-## 👤 Author
-**MoSamir104**  
-📧 [Add your contact or LinkedIn here]  
-💼 *Data Analyst | SQL | Power BI | Data Modeling*
