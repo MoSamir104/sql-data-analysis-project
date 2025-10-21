@@ -1,11 +1,11 @@
-# 📊 SQL Data Analysis Project
+# SQL Data Analysis Project
 
 A full **retail sales analytics and reporting project** built entirely with SQL.  
 This project demonstrates how to extract, clean, and analyze data to deliver actionable business insights — without relying on external BI tools.
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 This project simulates a **retail data warehouse** structured using a **star schema**, including:
 
 - `fact_sales` – transactional sales data  
@@ -16,7 +16,7 @@ Using advanced SQL queries, I analyzed **sales trends, customer segments, and pr
 
 ---
 
-## 🧩 Key Achievements
+## Key Achievements
 - Built **time-based trend analyses** (yearly, monthly, cumulative) for sales and customer metrics.  
 - Designed **running total** and **moving average** queries to monitor performance over time.  
 - Developed **customer segmentation logic** (VIP, Regular, New) using lifespan and spending.  
@@ -27,7 +27,7 @@ Using advanced SQL queries, I analyzed **sales trends, customer segments, and pr
 
 ---
 
-## 💡 Insights Generated
+## Insights Generated
 - Identified top-performing product categories and underperforming segments.  
 - Calculated customer retention and lifetime value (LTV).  
 - Analyzed category contribution to overall sales (part-to-whole analysis).  
@@ -35,7 +35,7 @@ Using advanced SQL queries, I analyzed **sales trends, customer segments, and pr
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **SQL Server (T-SQL)**
 - **CTEs & Window Functions**
 - **Aggregate & Analytical Functions**
@@ -43,7 +43,7 @@ Using advanced SQL queries, I analyzed **sales trends, customer segments, and pr
 
 ---
 
-## 🚀 Impact
+## Impact
 Delivered a set of **ready-to-query SQL views** that serve as data marts for dashboards in tools like **Power BI** or **Tableau**, improving data visibility and decision-making efficiency across sales and marketing teams.
 
 ---
